@@ -7,5 +7,5 @@ function whisper(string) {
 }
 
 function logShout(string) {
-  spyOn console.log()
+const spyOn.console.log()
 }
